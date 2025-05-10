@@ -1,0 +1,8 @@
+﻿References
+[1] “Shaping the Future of VR Hand Interactions: Lessons Learned from Modern Methods,” arXiv, Apr. 2025. Available: https://arxiv.org/html/2504.00337v1
+[2] “Implementing Virtual Reality in Training for Enhanced Learning,” Vorecol, 2023. Available: https://vorecol.com/blogs/blog-implementing-virtual-reality-in-training-for-enhanced-learning-9147
+[3] “The Effects of Hand Tracking on User Performance: An Experiment Study of an Object Selection Based Memory Game,” International Symposium on Mixed and Augmented Reality (ISMAR), 2023. Available: https://research.gold.ac.uk/id/eprint/33107/1/The_Effects_of_Hand_Tracking_on_User_Performance_an_experimentstudy_of_an_object_selection_based_memory_game_ISMAR_.pdf
+[4] “Comparing and Combining Virtual Hand and Virtual Ray Pointer Interactions in Immersive Analytics,” IEEE Transactions on Visualization and Computer Graphics, 2022. Available: https://vvise.iat.sfu.ca/user/data/papers/stcinteraction.pdf
+[5] K. Pfeuffer, B. Mayer, D. Mardanbegi, and H. Gellersen, “Gaze + Pinch Interaction in Virtual Reality,” in Proc. of Symposium on Spatial User Interaction (SUI '17), Brighton, United Kingdom, Oct. 2017, pp. 1–10. Available: https://3dvar.com/Pfeuffer2017Gaze.pdf
+[6] “Detecting Affect and Cognitive Load from Free-Hand Gestures in VR,” arXiv, Sep. 2024. Available: https://arxiv.org/html/2409.12921v1
+[7] “Design of a Virtual Reality Serious Game for Experiencing the Colors of Cultural Heritage,” Nature Scientific Reports, vol. 14, no. 1, Oct. 2024. Available: https://www.nature.com/articles/s40494-024-01477-x
